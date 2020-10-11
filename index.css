@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: arial,sans-serif;
+}
+
 input[type="submit"]{
     color: rgb(73, 67, 67);
 }
@@ -16,7 +20,7 @@ input[type="submit"]{
 }
 input[type="text"]{
     font-size: 20px;
-    font-weight: 0;
+    
     font-family: sans-serif;
     padding: 10px;
 }
